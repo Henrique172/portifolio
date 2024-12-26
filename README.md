@@ -2,4 +2,4 @@
 
 ## 🍮 Acesse o portfólio pleo GhPages
 
-<strong>Link:</strong> https://thalesa.github.io/portfolio/browser/
+<strong>Link:</strong> https://henrique172.github.io/portfolio/browser/

@@ -18,7 +18,7 @@
     background: var(--primary);
 
     &:hover {
-      background: var(--primary-010);
+      background: #06628a;
       color: var(--white);
     }
   }
@@ -28,7 +28,7 @@
     background: var(--secondary);
 
     &:hover {
-      background: var(--secondary-010);
+      background: var(--primary);
     }
   }
 }

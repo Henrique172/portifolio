@@ -29,7 +29,7 @@ export class KnowledgeComponent {
       alt: 'Ícone de conhecimento de angular',
     },
     {
-      src: 'assets/icons/knowledge/nodejs.svg',
+      src: 'assets/icons/knowledge/node.svg',
       alt: 'Ícone de conhecimento de nodejs',
     },
     {
@@ -39,6 +39,34 @@ export class KnowledgeComponent {
     {
       src: 'assets/icons/knowledge/css3.svg',
       alt: 'Ícone de conhecimento de css3',
+    },
+    {
+      src: 'assets/icons/knowledge/react.svg',
+      alt: 'Ícone de conhecimento de react',
+    },
+    {
+      src: 'assets/icons/knowledge/typescript.svg',
+      alt: 'Ícone de conhecimento de typescript',
+    },
+    {
+      src: 'assets/icons/knowledge/postgresql.svg',
+      alt: 'Ícone de conhecimento de postgresql',
+    },
+    {
+      src: 'assets/icons/knowledge/docker.svg',
+      alt: 'Ícone de conhecimento de docker',
+    },
+    {
+      src: 'assets/icons/knowledge/gitlab.svg',
+      alt: 'Ícone de conhecimento de gitlab',
+    },
+    {
+      src: 'assets/icons/knowledge/wordpress.svg',
+      alt: 'Ícone de conhecimento de wordpress',
+    },
+    {
+      src: 'assets/icons/knowledge/sonar.svg',
+      alt: 'Ícone de conhecimento de maven',
     },
   ]);
 }
